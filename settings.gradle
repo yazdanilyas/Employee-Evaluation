@@ -1,0 +1,3 @@
+include ':EmployeeApp'
+include ':app'
+rootProject.name = "EmployeePerformanceTracker"
